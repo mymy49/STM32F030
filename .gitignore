@@ -1,0 +1,7 @@
+*.hzs
+/.settings
+*.launch
+/Debug/
+/Release/
+/STM32F030CC THUMB Debug/
+/STM32F030CC THUMB Release/
